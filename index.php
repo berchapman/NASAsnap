@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Full Frontal Space</title>
-  <meta name="description" content="Full Frontal Space">
+  <title>NASAsnap</title>
+  <meta name="description" content="NASAsnap">
   <meta name="author" content="Richard Ber Chapman">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.css"/>
@@ -35,8 +35,11 @@
 <main>
   <div id="space-container">
   </div>
+  <div class="tooltip">
+    <p>Click or tap to view pictures from NASA's archive!</p>
+    <p class="tip">Tip: Press F11 for fullscreen</p>
+  </div>
 </main>
-
 
 
 <script type="text/javascript" src="js/app.js"></script>
